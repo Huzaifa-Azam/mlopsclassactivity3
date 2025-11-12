@@ -22,3 +22,5 @@ with open(model_path, "wb") as f:
     pickle.dump(model, f)
 
 print(f"✅ Model trained and saved as {model_path}")
+
+#meowwwwwwwwwwwwww
